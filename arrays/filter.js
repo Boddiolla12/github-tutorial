@@ -11,6 +11,7 @@ gruppe1.push("Kjell", "Roger");
 gruppe1[2] = "Vidar";
 
 // push
+// push
 console.log(
   "gruppemedlemmer:",
   gruppe1,
