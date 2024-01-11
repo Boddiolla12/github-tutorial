@@ -34,3 +34,12 @@ fjerner_elev = gruppe1.pop();
 console.log(gruppe1, "fjernet", fjerner_elev);
 
 // dette er en test for å legge til nytt repo i github
+
+let currentDate = new Date();
+
+let currentTime = currentDate.getHours();
+
+let currentMinute = currentDate.getMinutes();
+
+console.log(currentDate);
+console.log("CurrentTime: " + currentTime + ":" + currentMinute);
